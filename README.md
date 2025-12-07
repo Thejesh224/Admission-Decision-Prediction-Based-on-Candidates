@@ -1,4 +1,3 @@
-Here is the **clean README file for your 2nd project** with **simple, professional emojis**:
 
 ---
 
